@@ -1,4 +1,4 @@
-# 🎬 YouTube Script Generator
+# 🎬 CreatorsBuddy
 
 **Generate authentic Hinglish YouTube scripts that capture the unique style of Indian tech creators**
 
